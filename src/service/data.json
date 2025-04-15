@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Izuku Midoriya",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn49YO-6bSlei9seIkgG_VewQ1VQvzGugP5w&usqp=CAU",
+    "strenght": 1287,
+    "stamina": 23989,
+    "defense": 923,
+    "speed": 108,
+    "techniques": [ 
+      "Revêtement intégral",
+      "Delaware smash",
+      "Detroit smash",
+      "Texas smash"
+    ]
+  },{
+    "id": 2,
+    "name": "Katsuki Bakugo",
+    "picture": "https://cdn.shopify.com/s/files/1/0242/8410/2720/files/Katsuki_Bakugo_blog_1_1024x1024.jpg?v=1587048178",
+    "strenght": 1527,
+    "stamina": 21787,
+    "defense": 800,
+    "speed": 100,
+    "techniques": [ 
+      "Flashbang",
+      "Howitzer Impact",
+      "Mitrailleuse Anti-Blindage",
+      "Exploite-A-Puit"
+    ]
+  }
+]
